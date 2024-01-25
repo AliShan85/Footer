@@ -1,0 +1,69 @@
+.footer {
+  background-color: #efefef;
+}
+.footer-heading {
+  font-size: 18px;
+  font-weight: 600;
+}
+.simple-text {
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #666873;
+  line-height: 2;
+}
+.text {
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #666873;
+  line-height: 2;
+}
+.contact-info-icon {
+  font-size: 10px;
+}
+.contact-info-social-icon {
+  background-color: #ffff;
+  font-size: 10px;
+  color: #0025f7;
+}
+.subscribe-form .btn {
+  border-radius: 0;
+  background-color: #ff8c04;
+}
+
+.subscribe-form input {
+  border-radius: 0;
+}
+.subscribe-form input::placeholder {
+  font-size: 13px;
+  font-weight: 400;
+  color: #666873;
+  line-height: 2;
+}
+.subscribe-form .btn,
+.subscribe-form input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.navbar-block .nav-link {
+  color: black;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.text:hover {
+  color: #ff8c04;
+}
+
+.navbar-block .nav-link:hover {
+  color: #ff8c04;
+}
+.contact-info-social-icon:hover {
+  background-color: #ff8c04;
+  color: #ffff;
+}
+.subscribe-form .btn:hover {
+  background-color: #d07100;
+}
